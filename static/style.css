@@ -1,0 +1,13 @@
+#title {
+    color: midnightblue;
+    background-color: white;
+    text-align: center;
+}
+
+section{
+    background-color: white;
+}
+
+body {
+    background-image: url('/static/brown-wooden-flooring.jpg');
+}

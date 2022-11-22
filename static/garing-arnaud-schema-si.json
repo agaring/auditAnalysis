@@ -1,0 +1,72 @@
+{
+  "titre": "Audit de l'entreprise : Predimed Technology",
+  "entreprise": {
+    "nom": "Predimed Technology",
+    "SIREN": "834296105",
+    "SIRET": "83429610500010",
+    "TVA": "FR43834296105",
+    "RCS": "Strasbourg B 834 296105"
+  },
+  "Ressources": [
+    {
+      "type": "humaine",
+      "role": "salarié",
+      "nom": "Garing",
+      "prénom": "Arnaud",
+      "job": "Développeur"
+    },
+    {
+      "type": "humaine",
+      "role": "salarié",
+      "nom": "Hajam",
+      "prénom": "Mohamed",
+      "job": "CEO"
+    },
+    {
+      "type": "matérielle",
+      "role": "siege",
+      "adresse": " 22b avenue de l'Europe",
+      "code postal": "67300",
+      "ville": "Schiltigheim"
+    }
+  ],
+  "Donnees": [
+    {
+      "type": "brute",
+      "nom": "Dossier du patient"
+    },
+    {
+      "type": "brute",
+      "nom": "Mesure enregistrée par les capteurs"
+    },
+    {
+      "type": "structurée",
+      "nom": "Rendez-vous patient et médecins"
+    },
+    {
+      "type": "structurée",
+      "nom": "Etat de santé d'un patient"
+    }
+  ],
+  "Processus": {
+    "collection": [
+      {
+        "ordre": 0,
+        "nom": "Utilisation Application Android",
+        "description": "abcd",
+        "in":"abc",
+        "out": "abc",
+        "traitement": []
+      }
+    ],
+    "stockage": [
+
+    ],
+    "traitement": [
+
+    ],
+    "diffusion": [
+
+    ]
+  }
+}
